@@ -7,7 +7,7 @@ spec:
   predictor:
     containers:
     - name: kserve-container
-      image: ghcr.io/aditya-meteoros/ticket-triage-api:a1b2c3d4
+      image: ghcr.io/aditya-meteoros/ticket-triage-api:f013637d
       ports:
       - containerPort: 8000
       resources:
